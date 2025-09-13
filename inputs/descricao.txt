@@ -1,0 +1,2 @@
+Este arquivo contém 365 observações de vendas diárias de sorvete
+(Vendas_Sorvete) em função da temperatura ambiente (Temperatura).
