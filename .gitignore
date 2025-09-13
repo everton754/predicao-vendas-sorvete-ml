@@ -1,0 +1,12 @@
+# Python e ambientes virtuais
+venv/
+__pycache__/
+*.py[cod]
+
+# Dados gerados e caches
+mlruns/
+dados_sorvete_temperatura.csv
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
